@@ -13,7 +13,7 @@ wacn.date: 12/6/2018
 
 # 如何用 Java 操作 Spark SQL
 
-对于如何用 Java 操作 Spark SQL 的 demo 您可以参考该[示例代码](D:\GitHub\AOG-CodeSample\HDInsight\aog-hdinsight-howto-operate-spark-sql-by-java\JavaSparkSQLDemo-master)：
+对于如何用 Java 操作 Spark SQL 的 demo 您可以参考该示例代码 https://github.com/baolijn/JavaSparkSQLDemo.git：
 
 1. 将示例代码下载到本地后，用 maven 打包成 sql-1.0.jar。
 2. 用 WinSCP 工具将打包成的 sql-1.0.jar 上传到您的 Spark 集群的 `/home/sshuser/` 目录下。
